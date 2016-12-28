@@ -1,0 +1,148 @@
+exports[`<App /> renders 1`] = `
+<div>
+  <h1>
+    What\'s your favorite city?
+  </h1>
+  <input
+    onChange={[Function bound handleChange]}
+    type="text"
+    value="" />
+  <div>
+    <p>
+      Go ahead, type in a city.
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders with SeAtTlE 1`] = `
+<div>
+  <h1>
+    What\'s your favorite city?
+  </h1>
+  <input
+    onChange={[Function bound handleChange]}
+    type="text"
+    value="SeAtTlE" />
+  <div>
+    <ul
+      className="no-bullets">
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <a
+          href="http://www.soundersfc.com/">
+          Go Sounders!
+        </a>
+      </li>
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <img
+          src="https://upload.wikimedia.org/wikipedia/en/2/27/Seattle_Sounders_FC.svg"
+          width="150" />
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders with portland 1`] = `
+<div>
+  <h1>
+    What\'s your favorite city?
+  </h1>
+  <input
+    onChange={[Function bound handleChange]}
+    type="text"
+    value="portland" />
+  <div>
+    <ul
+      className="no-bullets">
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <a
+          href="http://www.trailblazers.com/">
+          Go Trail Blazers!
+        </a>
+      </li>
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <img
+          src="https://upload.wikimedia.org/wikipedia/en/0/06/Portland_Trail_Blazers_alternate_logo.svg"
+          width="150" />
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders with seattle 1`] = `
+<div>
+  <h1>
+    What\'s your favorite city?
+  </h1>
+  <input
+    onChange={[Function bound handleChange]}
+    type="text"
+    value="seattle" />
+  <div>
+    <ul
+      className="no-bullets">
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <a
+          href="http://www.soundersfc.com/">
+          Go Sounders!
+        </a>
+      </li>
+      <li
+        style={
+          Object {
+            "margin": "10px"
+          }
+        }>
+        <img
+          src="https://upload.wikimedia.org/wikipedia/en/2/27/Seattle_Sounders_FC.svg"
+          width="150" />
+      </li>
+    </ul>
+  </div>
+</div>
+`;
+
+exports[`<App /> renders with some place 1`] = `
+<div>
+  <h1>
+    What\'s your favorite city?
+  </h1>
+  <input
+    onChange={[Function bound handleChange]}
+    type="text"
+    value="s" />
+  <div>
+    <p>
+      s
+      ? Never heard of it.
+    </p>
+  </div>
+</div>
+`;
