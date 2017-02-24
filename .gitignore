@@ -7,3 +7,6 @@
 # node
 npm-debug.log
 node_modules/
+
+# mac
+.DS_Store
