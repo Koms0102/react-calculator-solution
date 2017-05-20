@@ -222,7 +222,7 @@ View app you recently built.
 
 ## Example in action
 
-![Camera Shop Example](images/camera_example.gif)
+![Camera Shop Example](camera_example.gif)
 
 ## Example Data
 
