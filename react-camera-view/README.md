@@ -243,7 +243,7 @@ The camera shop page will require the following:
 
 The goal of part 2 is to add cart functionality.
 
-![Camera Shop Example Part 2](images/camera_example_part2.gif)
+![Camera Shop Example Part 2](camera_example_part2.gif)
 
 1. When the user clicks "Add to Cart", the cart manages the item
    inserted. Subsequent adds increase the quantity of the item.
